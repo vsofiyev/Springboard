@@ -1,0 +1,18 @@
+Superstore Sales:
+Using “superstore_final_dataset” dataset:
+Evaluate the impact of promotions and discounts on sales can help optimize marketing strategies.
+Using historical sales data, forecast future sales, plan inventory levels, and make data-driven decisions
+
+
+Sleep, Screen Time and Stress Analysis:
+Using a synthetic data set “Sleep, Screen Time and Stress Analysis” predict stress levels using machine learning models, analyze the impact of screen time on sleep quality.
+The dataset includes the following types of information:
+•	Demographic information (age, gender, occupation)
+•	Daily smartphone usage patterns
+•	Sleep duration and sleep quality indicators
+•	Lifestyle factors such as caffeine intake and physical activity
+•	Stress and mental fatigue indicators
+
+
+Customer Attrition Modeling:
+Using a “Churn Modeling” dataset build an ML model for predicting customer attrition.
